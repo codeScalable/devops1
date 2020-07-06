@@ -1,1 +1,2 @@
 This is a help document intending to teach you how to work with git
+First you start by creating a folder which is going to house your project
