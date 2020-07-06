@@ -1,0 +1,1 @@
+This is a help document intending to teach you how to work with git
